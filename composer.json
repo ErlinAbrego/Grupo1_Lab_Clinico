@@ -1,0 +1,7 @@
+{
+    "require": {
+        "paypal/rest-api-sdk-php": "^1.14",
+        "setasign/fpdf": "^1.8",
+        "tecnickcom/tcpdf": "^6.7"
+    }
+}
